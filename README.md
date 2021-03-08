@@ -1,4 +1,6 @@
-# Unity Package
+# Skin Tone Materials
+
+The Skin Tone Materials package contains over 30 materials representing a diverse palette of skin tone colors.
 
 ## Installation
 
@@ -10,4 +12,4 @@ To load a package from a Git URL:
 2. Click the add (`+`) button in the status bar
 3. Select **Add package from git URL** from the add menu
 4. Enter the following Git URL in the text box and click Add:
-   `https://github.com/zigurous/unity-package-template.git`
+   `https://github.com/zigurous/unity-skin-tone-materials.git`
