@@ -2,11 +2,11 @@
 
 [![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/zigurous/unity-skin-tone-materials) [![](https://img.shields.io/github/package-json/v/zigurous/unity-skin-tone-materials)](https://github.com/zigurous/unity-skin-tone-materials/releases) [![](https://img.shields.io/github/license/zigurous/unity-skin-tone-materials)](https://github.com/zigurous/unity-skin-tone-materials/blob/main/LICENSE.md)
 
-The Skin Tone Materials package contains over 30 materials representing a diverse palette of skin tone colors.
+The **Skin Tone Materials** package contains over 30 materials representing a diverse palette of skin tone colors.
 
 ## Installation
 
-Use the Unity [Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) to install the Skin Tone Materials package.
+Use the Unity [Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) to install the **Skin Tone Materials** package.
 
 1. Open the Package Manager in `Window > Package Manager`
 2. Click the add (`+`) button in the status bar
@@ -16,8 +16,3 @@ Use the Unity [Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) to 
 ```http
 https://github.com/zigurous/unity-skin-tone-materials.git
 ```
-
-For more information on the Package Manager and installing packages, see the following pages:
-
-- [Unity's Package Manager](https://docs.unity3d.com/Manual/Packages.html)
-- [Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
